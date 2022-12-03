@@ -1,4 +1,4 @@
-baseURL : "http://moi.tetlify.app/"
+baseURL : "https://moi.netlify.app/"
 
 
 contentdir: content
