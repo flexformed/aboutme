@@ -1,0 +1,35 @@
+baseURL : "http://a-startup.com/"
+
+
+contentdir: content
+
+layoutdir: layouts
+
+publishdir: public
+
+theme: hugo-PaperMod
+
+paginate: 5
+
+title: Naim DRID
+
+description: "This is a static site generated with Hugo!"
+
+
+author: "author/:slug/"
+
+menu:
+  main:
+  - identifier: categories
+    name: Categories
+    url: /categories/
+    weight: 10
+  - identifier: tags
+    name: Tags
+    url: /tags/
+    weight: 20
+  - identifier: archives
+    name: Archives
+    url: /archives/
+    weight: 30
+
