@@ -7,12 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 03 Dec 2022 23:07:31 +0100</lastBuildDate><atom:link href="https://moi.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>First post</title>
       <link>https://moi.netlify.app/posts/first/</link>
       <pubDate>Sat, 03 Dec 2022 23:07:31 +0100</pubDate>
       
       <guid>https://moi.netlify.app/posts/first/</guid>
-      <description>First post</description>
+      <description>The first post is about testing the deployment, was looking to use static deployers for a long time, it was just about the right time and more fancy than practical.</description>
+    </item>
+    
+    <item>
+      <title>Second post</title>
+      <link>https://moi.netlify.app/posts/second/</link>
+      <pubDate>Sat, 03 Dec 2022 23:07:31 +0100</pubDate>
+      
+      <guid>https://moi.netlify.app/posts/second/</guid>
+      <description></description>
     </item>
     
   </channel>
