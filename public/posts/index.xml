@@ -18,10 +18,19 @@
     <item>
       <title>Second post</title>
       <link>https://moi.netlify.app/posts/second/</link>
-      <pubDate>Sat, 03 Dec 2022 23:07:31 +0100</pubDate>
+      <pubDate>Sat, 03 Dec 2022 23:07:31 +0111</pubDate>
       
       <guid>https://moi.netlify.app/posts/second/</guid>
-      <description> </description>
+      <description>test3</description>
+    </item>
+    
+    <item>
+      <title>third post</title>
+      <link>https://moi.netlify.app/posts/third/</link>
+      <pubDate>Sat, 03 Dec 2022 23:07:31 +0111</pubDate>
+      
+      <guid>https://moi.netlify.app/posts/third/</guid>
+      <description>test3</description>
     </item>
     
   </channel>
