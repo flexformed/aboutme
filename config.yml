@@ -32,11 +32,11 @@ menu:
     url: /archives/
     weight: 30
 
+diagram: true
 
 params:
   ShowShareButtons: true
   ShowBreadCrumbs: true
-  diagram: true
 
 
 security:
