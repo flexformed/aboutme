@@ -6,7 +6,7 @@ layoutdir: layouts
 
 publishdir: public
 
-theme: github.com/adityatelange/hugo-PaperMod
+theme: hugo-PaperMod
 
 paginate: 5
 
