@@ -38,3 +38,23 @@ params:
   ShowBreadCrumbs: true
 
 
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+    - ^dart-sass-embedded$
+    - ^go$
+    - ^npx$
+    - ^postcss$
+    osEnv:
+    - (?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM)$
+  funcs:
+    getenv:
+    - ^HUGO_
+  http:
+    methods:
+    - (?i)GET|POST
+    urls:
+    - .*
+
+
