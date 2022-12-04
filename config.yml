@@ -39,7 +39,7 @@ params:
 
 
 security:
-  enableInlineShortcodes: false
+  enableInlineShortcodes: true
   exec:
     allow:
     - ^dart-sass-embedded$
