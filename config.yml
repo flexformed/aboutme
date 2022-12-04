@@ -40,6 +40,11 @@ params:
       theme: "dark"
       align: "center"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 
 security:
   enableInlineShortcodes: true
