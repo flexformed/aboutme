@@ -1,19 +1,18 @@
 baseURL : "https://moi.netlify.app/"
 
-
 contentdir: content
 
 layoutdir: layouts
 
 publishdir: public
 
-theme: hugo-PaperMod
+theme: themes/hugo-PaperMod
 
 paginate: 5
 
 title: Den
 
-description: "This is a static site generated with Hugo!"
+description: "Den's site"
 
 
 author: "author/:slug/"
