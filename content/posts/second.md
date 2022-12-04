@@ -6,11 +6,13 @@ mermaid: true
 ---
 
 ---mermaid
+
 graph TD;
   A-->B;
   A-->C;
   B-->D;
   C-->D;
+
 --- 
 
 memo
@@ -22,4 +24,4 @@ graph LR;
    B --> D[volume <br> 1cm<sup>3</sup>]
    E[height <br> 6cm] --> D
    F[width <br> 15cm] --> D
-   </mermaid>
+</mermaid>
