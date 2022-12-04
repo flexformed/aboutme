@@ -14,7 +14,11 @@
     <loc>https://moi.netlify.app/posts/second/</loc>
     <lastmod>2022-12-03T23:07:31+01:00</lastmod>
   </url><url>
+    <loc>https://moi.netlify.app/archives/</loc>
+  </url><url>
     <loc>https://moi.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://moi.netlify.app/search/</loc>
   </url><url>
     <loc>https://moi.netlify.app/tags/</loc>
   </url>
