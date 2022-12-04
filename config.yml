@@ -36,6 +36,7 @@ menu:
 params:
   ShowShareButtons: true
   ShowBreadCrumbs: true
+  diagram: true
 
 
 security:
