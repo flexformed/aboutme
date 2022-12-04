@@ -5,10 +5,9 @@ draft: false
 mermaid: true
 ---
 
+This can't be easier.
+
 {{<mermaid>}}
 graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+  Problem-->Solution;
 {{</mermaid>}}
