@@ -35,4 +35,6 @@ menu:
 
 params:
   ShowShareButtons: true
+  ShowBreadCrumbs: true
+
 
