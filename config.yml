@@ -32,11 +32,13 @@ menu:
     url: /archives/
     weight: 30
 
-diagram: true
 
 params:
   ShowShareButtons: true
   ShowBreadCrumbs: true
+  mermaid:
+      theme: "dark"
+      align: "center"
 
 
 security:
