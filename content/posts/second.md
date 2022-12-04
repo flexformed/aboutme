@@ -12,6 +12,9 @@ graph TD;
   B-->D;
   C-->D;
 --- 
+
+memo
+
 <mermaid>
 graph LR;
    A[sheets ream<sup>-1</sup> <br> 500] -->|-1| B[thickness <br> 10<sup>-2</sup>cm <br>] 
